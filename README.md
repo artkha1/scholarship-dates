@@ -15,16 +15,21 @@ The script reads scholarship dates from a Google Sheets document and creates eve
 
 - Python 3.x
 - Google Cloud credentials with access to Google Sheets API and Google Calendar API
-- Required Python libraries:
-  - `gspread`
-  - `oauth2client`
-  - `pandas`
-  - `numpy`
-  - `google-api-python-client`
+- Libraries as listed in requirements.txt
 
 ## Setup
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/scholarship-dates.git
+   git clone https://github.com/artkha1/scholarship-dates.git
    cd scholarship-dates
+   ```
+2. **Install required dependencies**:
+   ```bash
+   pip install -r requirements.txt
+  ```
+3. **Create a .env file with your credentials - see .env.example**
+4. **Run the script **:
+   ```bash
+   python scholarship_dates.py
+  ```
