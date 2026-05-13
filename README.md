@@ -13,10 +13,15 @@ Make the scholarship application process more organized by automatically adding 
 
 ## Demo
 
+Scholarships Spreadsheet
 ![Scholarships Spreadsheet](images/Spreadsheet.png)
 
+
+Scholarship Dates in the Calendar After Running the Script
 ![Scholarship Dates in the Calendar After Running the Script](images/Calendar.png)
 
+
+Calendar Notification Sent as Set Up by the Script
 ![Calendar Notification Sent as Set Up by the Script](images/Notification.png)
 
 
